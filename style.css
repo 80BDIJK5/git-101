@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background-color: #D23333;
 }
 
 #logo {
@@ -18,4 +19,5 @@ height: 100vh;
 
 h1 {
 	margin-left: 20px;
+	color: white;
 }
